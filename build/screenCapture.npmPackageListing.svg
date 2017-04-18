@@ -1,20 +1,20 @@
 <svg height="270" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="270" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 11:26:26 +0000   347001 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 11:26:26 +0000     1413 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 11:26:26 +0000     1082 bytes  MIT-LICENSE.txt</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 11:26:26 +0000     6109 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 11:26:26 +0000      159 bytes  bower.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 11:26:26 +0000     1757 bytes  gulpfile.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 11:26:26 +0000     2694 bytes  package.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 11:26:26 +0000     2985 bytes  src/logger.d.ts</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 11:26:26 +0000     8498 bytes  src/logger.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 11:26:26 +0000     2499 bytes  src/logger.min.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 11:26:26 +0000      654 bytes  test-src/index.html</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 11:26:26 +0000     7518 bytes  test-src/loggertests.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 11:26:26 +0000     5146 bytes  test-src/vendor/qunit-1.18.0.css</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 11:26:26 +0000   115758 bytes  test-src/vendor/qunit-1.18.0.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 11:26:26 +0000   190729 bytes  test-src/vendor/sinon-1.14.1.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 11:27:26 +0000   347001 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 11:27:26 +0000     1413 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 11:27:26 +0000     1082 bytes  MIT-LICENSE.txt</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 11:27:26 +0000     6109 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 11:27:26 +0000      159 bytes  bower.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 11:27:26 +0000     1757 bytes  gulpfile.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 11:27:26 +0000     2694 bytes  package.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 11:27:26 +0000     2985 bytes  src/logger.d.ts</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 11:27:26 +0000     8498 bytes  src/logger.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 11:27:26 +0000     2499 bytes  src/logger.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 11:27:26 +0000      654 bytes  test-src/index.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 11:27:26 +0000     7518 bytes  test-src/loggertests.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 11:27:26 +0000     5146 bytes  test-src/vendor/qunit-1.18.0.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 11:27:26 +0000   115758 bytes  test-src/vendor/qunit-1.18.0.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 11:27:26 +0000   190729 bytes  test-src/vendor/sinon-1.14.1.js</tspan>
 </text>
 </svg>
