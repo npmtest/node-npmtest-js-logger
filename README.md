@@ -1,6 +1,6 @@
 # npmtest-js-logger
 
-#### test coverage for  [js-logger (v1.3.0)](http://github.com/jonnyreeves/js-logger)  [![npm package](https://img.shields.io/npm/v/npmtest-js-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-js-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-js-logger.svg)](https://travis-ci.org/npmtest/node-npmtest-js-logger)
+#### basic test coverage for  [js-logger (v1.3.0)](http://github.com/jonnyreeves/js-logger)  [![npm package](https://img.shields.io/npm/v/npmtest-js-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-js-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-js-logger.svg)](https://travis-ci.org/npmtest/node-npmtest-js-logger)
 
 #### Lightweight, unobtrusive, configurable JavaScript logger
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-js-logger/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-js-logger/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-js-logger/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-js-logger/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-js-logger/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-js-logger/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-js-logger/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-js-logger/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-js-logger/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-js-logger/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-js-logger/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-js-logger/build/coverage.html/index.html)
 
@@ -88,7 +88,8 @@
         "test": "gulp test lint"
     },
     "typings": "./src/logger.d.ts",
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
